@@ -1,0 +1,35 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.log
+*.tmp
+
+# Model weights and exported models
+*.pt
+*.onnx
+*_openvino_model/
+
+# Local test captures
+capture.jpg
+
+# OS-generated files
+.DS_Store
+Thumbs.db

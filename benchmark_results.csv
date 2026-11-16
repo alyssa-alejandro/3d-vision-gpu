@@ -1,0 +1,3 @@
+Device,Average Latency (ms),Inferences per Second
+CPU,36.45,27.44
+Intel UHD GPU,28.09,35.6
